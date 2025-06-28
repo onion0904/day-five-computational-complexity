@@ -1,5 +1,6 @@
 # day-five-computational-complexity
-いかのzennの記事で解説しています。
+以下のzennの記事で解説しています。
+
 [zennの記事](https://zenn.dev/onion0904/articles/ac9f10a6c3e065)
 
 ```
